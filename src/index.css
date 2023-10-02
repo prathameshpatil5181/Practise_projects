@@ -1,0 +1,21 @@
+body{
+  width:100vw;
+  margin:0;
+  padding:0;
+}
+
+body #root{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width:100vw;
+}
+.formBody{
+  display: flex;
+  justify-content: center;
+  padding-top:100px;
+}
+
+.form-input-width{
+  width:500px;
+}
